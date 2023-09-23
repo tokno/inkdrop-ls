@@ -1,7 +1,7 @@
 {
   "name": "inkdrop-ls",
   "main": "./lib/inkdrop-ls",
-  "version": "0.0.0",
+  "version": "0.0.0-beta",
   "description": "Inkdrop note listing plugin",
   "keywords": [
     "inkdrop"
